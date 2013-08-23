@@ -1,4 +1,5 @@
 #include<stdio.h>
+//comment
 struct stack
 {
     int top;
